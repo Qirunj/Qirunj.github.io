@@ -16,4 +16,4 @@ I also like photography. Below are some photos I took:
 ![p1](img/DSC_0710.jpg 'a cute cat')
 ![p2](img/gasworks.jpg 'skyline')
 ![p3](img/suzzalo.jpg 'suzzallo')
-![p4](img/YMY02164.jpg 'golden gate bridge')
+
